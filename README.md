@@ -1,0 +1,2 @@
+# chatClient
+So this was made into a repo because I needed my dad to test if it works with the chat server. It does work... kind of. It's really janky, but I might release the server eventually. Emphasis on might because, again, it's really janky, and it only works if the server and client are on the same network or with port forwarding. I'm not willing to put effort into an old repo but I might make another, slightly less scuffed repo with the server and client bundled into one and a gui.
